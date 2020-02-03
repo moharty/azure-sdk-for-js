@@ -455,7 +455,7 @@
     {
       "packageName": "@azure/template",
       "projectFolder": "sdk/template/template",
-      "versionPolicyName": "utility"
+      "versionPolicyName": "client"
     },
     {
       "packageName": "@azure/test-utils-recorder",
